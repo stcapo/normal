@@ -10,7 +10,7 @@ const resources = [
     url: '/files/math_chapter1.ppt',
     size: '5.2MB',
     uploader: 2, // 对应 users 中的教师ID
-    uploadTime: '2023-06-10 09:30:12',
+    uploadTime: '2025-04-10 09:30:12',
     views: 256,
     downloads: 120,
     rating: 4.7,
@@ -20,13 +20,13 @@ const resources = [
         id: 1,
         userId: 4,
         content: '这个课件讲解很清晰，对我理解极限概念很有帮助',
-        time: '2023-06-12 14:20:30',
+        time: '2025-04-12 14:20:30',
         replies: [
           {
             id: 1,
             userId: 2,
             content: '谢谢你的反馈，如有不懂的地方可以随时提问',
-            time: '2023-06-12 16:05:22'
+            time: '2025-04-12 16:05:22'
           }
         ]
       }
@@ -42,7 +42,7 @@ const resources = [
     url: '/files/cpp_basics.pdf',
     size: '3.8MB',
     uploader: 2,
-    uploadTime: '2023-05-20 15:22:40',
+    uploadTime: '2025-04-20 15:22:40',
     views: 342,
     downloads: 180,
     rating: 4.5,
@@ -59,7 +59,7 @@ const resources = [
     url: '/files/english_grammar.mp4',
     size: '120MB',
     uploader: 3,
-    uploadTime: '2023-07-05 10:15:30',
+    uploadTime: '2025-05-05 10:15:30',
     views: 189,
     downloads: 95,
     rating: 4.8,
@@ -76,7 +76,7 @@ const resources = [
     url: '/files/physics_midterm.doc',
     size: '1.2MB',
     uploader: 3,
-    uploadTime: '2023-04-18 13:40:20',
+    uploadTime: '2025-04-18 13:40:20',
     views: 276,
     downloads: 220,
     rating: 4.6,
@@ -93,7 +93,7 @@ const resources = [
     url: '/files/data_structures.pdf',
     size: '8.5MB',
     uploader: 2,
-    uploadTime: '2023-08-12 11:20:45',
+    uploadTime: '2025-05-12 11:20:45',
     views: 312,
     downloads: 170,
     rating: 4.9,
@@ -110,7 +110,7 @@ const resources = [
     url: '/files/literature_analysis.ppt',
     size: '4.3MB',
     uploader: 3,
-    uploadTime: '2023-09-05 14:10:30',
+    uploadTime: '2025-05-05 14:10:30',
     views: 178,
     downloads: 85,
     rating: 4.4,
